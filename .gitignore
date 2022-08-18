@@ -20,5 +20,10 @@ files
 *~
 
 .DS_Store
+<<<<<<< HEAD
 .vscode
 .env
+=======
+
+.vscode
+>>>>>>> f43c44e9a3b7e1e77240dc013656fc4f52632492
